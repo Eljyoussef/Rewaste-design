@@ -2,27 +2,17 @@
 
 This project is a complete redesign of the skip selection interface, transforming a dark-themed, basic layout into a modern, user-friendly experience while maintaining all original functionality.
 
-### 🔗 Live Demo
-- **Deployed Site**: [Your Vercel/Netlify URL here]
-- **GitHub Repository**: [Your GitHub repo URL here]
-
 ## ✨ Key Features
 
 ### 🎨 Design Improvements
 - **Modern Light Theme**: Clean, professional appearance with better contrast
 - **Responsive Grid Layout**: Optimized for mobile, tablet, and desktop
 - **Visual Feedback**: Hover states, selection animations, and micro-interactions
-- **Progress Indicator**: Clear step-by-step guidance through the booking process
-- **Improved Typography**: Better hierarchy and readability
 
 ### 📱 Mobile-First Design
 - **Touch-Friendly Interface**: Larger tap targets and optimized spacing
-- **Responsive Breakpoints**: 
-  - Mobile: < 768px (1 column)
-  - Tablet: 768px - 1024px (2 columns)
-  - Desktop: > 1024px (3 columns)
-- **Progressive Disclosure**: Information revealed appropriately for screen size
-
+- **Responsive Breakpoints**
+- 
 ### 🚀 Technical Features
 - **API Integration**: Real-time data fetching from We Want Waste API
 - **Error Handling**: Graceful fallbacks and user-friendly error messages
@@ -31,7 +21,6 @@ This project is a complete redesign of the skip selection interface, transformin
 - **Accessibility**: ARIA labels, semantic HTML, and keyboard navigation
 
 ## 🛠 Tech Stack
-
 - **Framework**: Next.js 14 (App Router)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
@@ -49,8 +38,8 @@ This project is a complete redesign of the skip selection interface, transformin
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repo-url]
-   cd skip-hire-redesign
+   git clone https://github.com/Eljyoussef/Rewaste-design
+   cd Rewaste-design
    ```
 
 2. **Install dependencies**
@@ -79,7 +68,7 @@ npm run type-check   # Run TypeScript compiler check
 ## 📁 Project Structure
 
 ```
-skip-hire-redesign/
+Rewaste-design/
 ├── app/
 │   ├── globals.css          # Global styles and CSS variables
 │   ├── layout.tsx           # Root layout component
