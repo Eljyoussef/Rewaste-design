@@ -12,7 +12,7 @@ This project is a complete redesign of the skip selection interface, transformin
 ### 📱 Mobile-First Design
 - **Touch-Friendly Interface**: Larger tap targets and optimized spacing
 - **Responsive Breakpoints**
-- 
+  
 ### 🚀 Technical Features
 - **API Integration**: Real-time data fetching from We Want Waste API
 - **Error Handling**: Graceful fallbacks and user-friendly error messages
