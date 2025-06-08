@@ -55,16 +55,6 @@ This project is a complete redesign of the skip selection interface, transformin
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-### Available Scripts
-
-```bash
-npm run dev          # Start development server
-npm run build        # Build for production
-npm run start        # Start production server
-npm run lint         # Run ESLint
-npm run type-check   # Run TypeScript compiler check
-```
-
 ## 📁 Project Structure
 
 ```
